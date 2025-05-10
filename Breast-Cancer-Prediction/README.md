@@ -16,7 +16,13 @@ This project predict whether a breast tumor is malignant or benign using the Bre
   - Support Vector Machine (SVM)
   - Naive Bayes
   - Random Forest
-- 📊 Performance Metrics: Confusion matrix, classification report.
+- 📊 Performance Metrics: Confusion matrix, classification report and accuracy as follows:
+  - Logistic Regression      --- 0.96
+  - K Nearest Neighbor (KNN) --- 0.96
+  - Decision Tree            --- 0.96
+  - Support Vector Machine (SVM) --- 0.96
+  - Naive Bayes              --- 0.96
+  - Random Forest            --- 0.96
 
 ---
 
